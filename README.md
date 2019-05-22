@@ -1,14 +1,3 @@
-<p align="center">
-
-    <a href="https://t.me/AlgorithmUz" target="_blank">
-
-        <img src="https://lh3.googleusercontent.com/mJg-lpeutiZRLrdt9UNcYqDoWkqBqrmvj4SJIIUcCillmgnP9fGXGdrw_y0S_DPIHHwMsfDH-B5h=w176-h176-n-o-rw" width="400" alt="Yii Framework" />
-
-    </a>
-
-</p>
-
-
 # AlgorithmUz blogi dastur kodlari
 
 
