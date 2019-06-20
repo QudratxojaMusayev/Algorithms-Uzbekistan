@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
+package Rekursiya;
 
 public class PrintNumbers {
     public static void main(String[] args) {
