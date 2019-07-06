@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32f42ad2-17ba-4a96-a386-0cf61e862600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QidirishAlgoritmlari/BinarySearchIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QidirishAlgoritmlari/StringSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +28,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/LinearSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="567">
               <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/BinarySearchIter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="357">
               <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/StringSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/Rekursiya/PrintNumbers.java" />
         <option value="$PROJECT_DIR$/src/QidirishAlgoritmlari/LinearSearch.java" />
         <option value="$PROJECT_DIR$/src/QidirishAlgoritmlari/BinarySearchIter.java" />
+        <option value="$PROJECT_DIR$/src/QidirishAlgoritmlari/StringSearch.java" />
       </list>
     </option>
   </component>
@@ -140,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchIter">
+  <component name="RunManager" selected="Application.StringSearch">
     <configuration name="BinarySearchIter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QidirishAlgoritmlari.BinarySearchIter" />
       <module name="Algorithms-Uzbekistan" />
@@ -162,8 +174,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QidirishAlgoritmlari.StringSearch" />
+      <module name="Algorithms-Uzbekistan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSearch" />
         <item itemvalue="Application.BinarySearchIter" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.PrintNumbers" />
@@ -185,14 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1561014638804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Binary search iterative approach added">
+      <created>1561354242699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561354242699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linear search algorithm added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linear search algorithm added" />
+    <MESSAGE value="Binary search iterative approach added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary search iterative approach added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VI qism. Rekursiya/Main.java" />
@@ -235,19 +263,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/LinearSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="567">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/BinarySearchIter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="357">
           <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QidirishAlgoritmlari/StringSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
